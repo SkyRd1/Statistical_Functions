@@ -3,7 +3,7 @@
 #University of Iowa.
 #Department of Chemical Engineering.
 #Purpose: Calculating autocorrelation
-#functions for AR(1) and Ar(2)
+#functions for Ar(1) and Ar(2)
 
 
 #--------------------------------------------------------------------------------------------#
